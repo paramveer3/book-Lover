@@ -49,12 +49,12 @@ const Footer = () => {
             <div className="text-center text-md-right">
               <ul className="list-unstyled list-inline">
               <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href="https://github.com/paramveer3/book-Lover">
+                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href="https://github.com/paramveer3/book-Lover-CipherSchool"> target ="_blank"
                     <i className="fab fa-github" />
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='https://www.linkedin.com/in/paramveer-sisodiya-214262151/'>
+                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='https://www.linkedin.com/in/paramveer-sisodiya-214262151/'> target ="_blank"
                     <i className="fab fa-linkedin-in" />
                   </a>
                 </li>
