@@ -28,7 +28,7 @@ const Footer = () => {
               <i className="fa fa-envelope mr-3" />  paramveersisodiya1234@gmail.com
             </p>
             <p>
-            <i className ="fa fa-envelope mr-3"/> priyanshumandal32@gmail.com
+            <i className ="fa fa-envelope mr-3"/> priyanshumanda2001@gmail.com
             </p>
            
             <p>
